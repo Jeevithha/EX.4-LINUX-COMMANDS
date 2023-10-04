@@ -3,14 +3,14 @@
 
 To study and execute the basis of UNIX commands.
 # COMMAND1: ls - List Files and Directories
-```
+
 Syntax: 
 	ls [options] [directory]
 Code: 
 	ls -l /home/user
 Output: 
 	List of files and directories in /home/user with details.
-```
+
 
 # COMMAND2:cd - Change Directory
 ```
